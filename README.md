@@ -266,48 +266,6 @@ Leading DevOps, cloud infrastructure, platform automation, and AI/ML service ena
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=bharisagar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="175" src="https://streak-stats.demolab.com?user=bharisagar&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharisagar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharisagar&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharisagar&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Bari%20Sagar%20Contribution%20Activity" alt="Contribution Activity Graph" />
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bharisagar/bharisagar/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/bharisagar/bharisagar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
