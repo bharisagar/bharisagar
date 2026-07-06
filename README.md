@@ -104,36 +104,6 @@ Led infrastructure automation, CI/CD design, AI/ML service integration, private 
 </details>
 
 <details>
-<summary><b>Expedia Cloud Platform Modernization - KPMG Engagement</b></summary>
-
-<br>
-
-Built scalable AWS infrastructure and delivery automation for a large-scale travel platform requiring high availability, standardized deployments, and strong observability.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| AWS EKS, Terraform, Jenkins, Azure DevOps, Docker, Helm, Prometheus, Grafana, Elasticsearch | Multi-environment enterprise platform | Reduced deployment cycle time by 50% with pipeline and IaC automation | IAM policies, VPC controls, SonarQube quality gates, compliant CI/CD workflows | Improved platform reliability, deployment speed, and infrastructure repeatability | Enterprise delivery - confidential |
-
-Implemented reusable Terraform modules, EKS automation, Helm-based microservice deployments, centralized logging, monitoring dashboards, alerting, zero-downtime cluster upgrades, and automated provisioning for EC2, S3, RDS, and EKS.
-
-</details>
-
-<details>
-<summary><b>Walmart Global E-Commerce Platform Modernization</b></summary>
-
-<br>
-
-Supported global e-commerce modernization with AWS, Azure DevOps, Terraform, Kubernetes, Helm, and backend service development for performance-critical modules.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| AWS, Azure DevOps, Terraform, EKS, Helm, Golang, Python, Shell, Prometheus, Grafana, ELK | Global retail platform modernization | Improved scaling and deployment reliability for high-volume systems | Secrets Manager, KMS, approval workflows, automated rollback, security scanning | Enabled compliant multi-stage delivery across Dev, QA, Staging, and Prod | Enterprise delivery - confidential |
-
-Built CI/CD automation, multi-stage pipelines, reusable infrastructure modules, Kubernetes deployments, Helm charts, monitoring dashboards, and Golang APIs for performance-sensitive backend services.
-
-</details>
-
-<details>
 <summary><b>ECS Deployment Readiness Agent</b></summary>
 
 <br>
@@ -194,6 +164,36 @@ Includes private VPC ECS Fargate, AWS Bedrock AI governance, enterprise AI gover
 </details>
 
 <details>
+<summary><b>Kubernetes Zero To Hero</b></summary>
+
+<br>
+
+A practical Kubernetes learning repository focused on architecture, YAML manifests, workloads, services, ConfigMaps, Secrets, probes, resources, debugging, RBAC, autoscaling, and Helm.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Kubernetes, Minikube, kubectl, Docker, YAML, Helm | 7-day roadmap with hands-on labs | Validated local cluster workflows and repeatable workload deployment | Namespace isolation, Secrets, RBAC roadmap, resource controls | Builds production-oriented Kubernetes fundamentals through practical labs | [Repository](https://github.com/bharisagar/kubernetes) |
+
+The repository validates Day 1 locally with Minikube, Kubernetes v1.33.1, namespace-based pod deployment, nginx workload checks, pod logs, exec validation, and clean teardown steps.
+
+</details>
+
+<details>
+<summary><b>Jenkins and GitHub Actions CI/CD Roadmap</b></summary>
+
+<br>
+
+A complete CI/CD learning path covering Jenkins, GitHub Actions, Docker builds, AWS ECR publishing, secrets, workflow triggers, and production pipeline tradeoffs.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Jenkins, GitHub Actions, Docker, AWS ECR, OIDC, Python validation | 7-day CI/CD roadmap with labs | Automates Docker build, tag, validation, and push workflows | GitHub secrets, OIDC AWS login, pull request checks, branch-based controls | Teaches modern production CI/CD from Jenkins foundations to GitHub-native delivery | [Repository](https://github.com/bharisagar/Jenkins-Githubactions) |
+
+The repository includes Jenkins architecture, credentials, multibranch pipelines, GitHub Actions push/PR/manual triggers, AWS login, ECR push, and a production-style GitHub Actions mini project.
+
+</details>
+
+<details>
 <summary><b>Terraform AWS: Zero to Pro</b></summary>
 
 <br>
@@ -205,6 +205,21 @@ A 7-day Terraform learning path for AWS infrastructure as code, moving from foun
 | Terraform, HCL, AWS EC2, VPC, S3 Backend, Workspaces | 7-day IaC curriculum with labs | Modular structure and repeatable lab execution | Sensitive values, state hygiene, lifecycle protections, readiness checks | Helps engineers understand Terraform by building real AWS labs | [Repository](https://github.com/bharisagar/Terraform) |
 
 Covers providers, resources, variables, outputs, data sources, modules, lifecycle arguments, backends, locking, workspaces, environment patterns, and production readiness.
+
+</details>
+
+<details>
+<summary><b>Docker Project Guide</b></summary>
+
+<br>
+
+A practical Docker repository covering installation, images, containers, custom Dockerfiles, multi-stage builds, volumes, networking, and evidence-driven labs.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Docker, Dockerfile, Docker Networking, Volumes, HTML, Node.js | Multi-day container fundamentals path | Multi-stage build concepts and container validation | Image hygiene, isolated networks, explicit cleanup workflows | Converts Docker fundamentals into visible, repeatable project evidence | [Repository](https://github.com/bharisagar/Docker) |
+
+The project documents practical commands, running containers, browser/API evidence, custom image builds, visit-counter validation, Docker volumes, and inter-container networking.
 
 </details>
 
@@ -222,38 +237,11 @@ Leading DevOps, cloud infrastructure, platform automation, and AI/ML service ena
 - Built GitHub Actions CI/CD pipelines for 10+ services using OIDC-based IAM roles, commit-SHA image tags, and reusable multi-environment workflows.
 - Implemented Terraform for QA environment buildout including ECS, RDS PostgreSQL 17.6, Redis, SQS FIFO, API Gateway v2, Cognito, Amplify, Secrets Manager, and S3 backends.
 - Reduced non-prod infrastructure cost from about $1,300/month to under $300/month through right-sizing, scheduled automation, and unused resource cleanup.
+- Automated weekday environment stop/start for EKS, Karpenter nodes, and RDS using EventBridge, Lambda, STS presigned tokens, and Kubernetes API operations.
 - Integrated OpenSearch, SonarQube, Bedrock, EFS-backed ML services, container-based Lambda workloads, and CloudWatch troubleshooting workflows.
+- Migrated hardcoded application secrets to AWS Secrets Manager and moved GitHub Actions pipelines from long-lived AWS keys to OIDC-based authentication.
 
-`AWS` `ECS Fargate` `EKS` `Terraform` `GitHub Actions` `OIDC` `OpenSearch` `Bedrock` `RDS` `Redis` `SonarQube`
-
-### Senior DevOps Engineer | HPC Consulting Pvt. Ltd
-
-`02/2022 - 08/2025` | Bangalore, India | Client: KPMG Bangalore | Project: Expedia
-
-Delivered AWS cloud infrastructure, CI/CD automation, Kubernetes operations, monitoring, and application modernization for a large-scale travel platform.
-
-- Designed and implemented CI/CD pipelines using Jenkins and Azure DevOps for build, test, and deployment automation.
-- Provisioned and managed Amazon EKS clusters with Terraform reusable modules for multi-environment deployments.
-- Deployed containerized services with Docker and Helm, reducing manual errors and standardizing release processes.
-- Integrated Prometheus, Grafana, Elasticsearch, and CloudWatch for monitoring, centralized logging, and alerting.
-- Reduced deployment cycle time by 50% using Azure DevOps pipelines and Terraform automation.
-
-`AWS` `EKS` `Terraform` `Jenkins` `Azure DevOps` `Docker` `Helm` `Prometheus` `Grafana` `Elasticsearch`
-
-### DevOps Software Engineer | HPC Consulting Pvt. Ltd
-
-`08/2019 - 02/2022` | Bangalore, India | Client: Walmart Inc.
-
-Supported global e-commerce platform modernization with hybrid DevOps automation, cloud infrastructure, Kubernetes delivery, and backend development.
-
-- Provisioned AWS EKS, EC2, RDS, S3, VPC, and IAM resources using Terraform.
-- Built Azure DevOps pipelines with multi-stage Dev, QA, Staging, and Prod approvals.
-- Integrated AWS Secrets Manager, AWS KMS, security scans, SonarQube, and automated rollback mechanisms.
-- Developed and maintained Helm charts for repeatable microservice deployments across environments.
-- Built Golang APIs for performance-critical backend services and Python/Shell automation for deployment verification.
-
-`AWS` `Terraform` `Azure DevOps` `Kubernetes` `Helm` `Golang` `Python` `Shell` `Secrets Manager` `KMS`
-
+`AWS` `ECS Fargate` `EKS` `Terraform` `GitHub Actions` `OIDC` `OpenSearch` `Bedrock` `RDS` `Redis` `SonarQube` `Secrets Manager` `Lambda`
 ---
 
 ## Achievements
@@ -261,9 +249,9 @@ Supported global e-commerce platform modernization with hybrid DevOps automation
 | Recognition | Details |
 | :---: | :--- |
 | AWS Certified DevOps Professional | Holds AWS Certified DevOps Engineer - Professional certification with hands-on enterprise cloud delivery experience. |
-| Cost Optimization Leadership | Reduced Happiest Minds QA environment cost by over 75% and Expedia cloud cost by 20% through right-sizing and automation. |
-| Deployment Velocity | Reduced deployment cycle time by 50% using Azure DevOps pipelines and Terraform automation. |
-| Kubernetes Scale Enablement | Led Kubernetes implementation and scaling improvements that increased application performance by 50%. |
+| Cost Optimization Leadership | Reduced Happiest Minds QA environment cost by over 75% through right-sizing, environment scheduling, and unused resource cleanup. |
+| Private VPC ECS Reliability | Resolved ECS Fargate ResourceInitializationError by designing the right private endpoint path for ECR, Secrets Manager, CloudWatch Logs, and S3 access. |
+| AI Platform Enablement | Integrated Bedrock, EFS-backed ML services, OpenSearch, and governance-minded observability for healthcare AI workloads. |
 | Full Stack Engineering Depth | Strong Ruby on Rails, Golang, Python, PostgreSQL, Redis, and cloud-native platform engineering background. |
 
 ---
@@ -274,35 +262,6 @@ Supported global e-commerce platform modernization with hybrid DevOps automation
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Certified DevOps Engineer Professional" />
-</div>
-
-### Oracle
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20%26%20Database%20Engineering-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0B1020" alt="Oracle Cloud and Database Engineering" />
-</div>
-
-### NPTEL
-
-<div align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Engineering%20%26%20Computer%20Science-4C1D95?style=for-the-badge&labelColor=0B1020" alt="NPTEL Engineering and Computer Science" />
-</div>
-
-### Cisco
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Infrastructure-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0B1020" alt="Cisco Networking and Infrastructure" />
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/u/bharisagar/"><img src="https://img.shields.io/badge/LeetCode-bharisagar-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0B1020" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/bharisagar"><img src="https://img.shields.io/badge/GeeksforGeeks-bharisagar-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0B1020" alt="GeeksforGeeks" /></a>
-  <a href="https://www.hackerrank.com/profile/bharisagar"><img src="https://img.shields.io/badge/HackerRank-bharisagar-312E81?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0B1020" alt="HackerRank" /></a>
-  <a href="https://www.codechef.com/users/bharisagar"><img src="https://img.shields.io/badge/CodeChef-bharisagar-7C3AED?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0B1020" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -384,13 +343,3 @@ Open To:
   <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-312E81?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" /></a>
   <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio" /></a>
 </div>
-
----
-
-## Footer
-
-<div align="center">
-  <b>Engineering reliable cloud platforms, intelligent automation, and production systems that scale with discipline.</b>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,50:4C1D95,100:0B1020" />
