@@ -80,5 +80,5 @@ My GitHub is a portfolio of hands-on DevOps and development work: AWS cloud plat
 
 - **GitHub:** [https://github.com/bharisagar](https://github.com/bharisagar)
 - **LinkedIn:** [https://www.linkedin.com/in/bharisagar/](https://www.linkedin.com/in/bharisagar/)
-- **Portfolio Repository:** [https://github.com/bharisagar/devopsportfolio](https://github.com/bharisagar/devopsportfolio)
+- **Portfolio:** [www.barisagar.info](https://www.barisagar.info)
 - **Email:** sagarbhari06@gmail.com
