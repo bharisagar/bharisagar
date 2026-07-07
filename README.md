@@ -1,31 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0B1020,45:4C1D95,100:7C3AED&text=Bari%20Sagar&fontColor=F8FAFC&fontSize=54&fontAlignY=38&animation=fadeIn&desc=DevOps%20Module%20Lead%20%7C%20AI%20Platform%20Engineer%20%7C%20Cloud-Native%20Architect&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:031B2F,45:0369A1,100:0284C7&text=Bari%20Sagar&fontColor=F8FAFC&fontSize=54&fontAlignY=38&animation=fadeIn&desc=DevOps%20Module%20Lead%20%7C%20AI%20Platform%20Engineer%20%7C%20Cloud-Native%20Architect&descAlignY=58&descSize=18" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=DevOps+Module+Lead;AWS+Certified+DevOps+Engineer+-+Professional;Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+Observability;AI%2FML+Infrastructure+%7C+Full+Stack+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=DevOps+Module+Lead;AWS+Certified+DevOps+Engineer+-+Professional;Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+Observability;AI%2FML+Infrastructure+%7C+Full+Stack+Engineering" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20DevOps%20Professional-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Certified DevOps Professional" />
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1020" alt="Bangalore India" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20DevOps%20Professional-0EA5E9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=031B2F" alt="AWS Certified DevOps Professional" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-0284C7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=031B2F" alt="Bangalore India" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/bharisagar/"><img src="https://img.shields.io/badge/LinkedIn-bharisagar-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" /></a>
-  <a href="mailto:barisagar0081@gmail.com"><img src="https://img.shields.io/badge/Email-barisagar0081%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Email" /></a>
-  <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-312E81?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" /></a>
+  <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=031B2F" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bharisagar/"><img src="https://img.shields.io/badge/LinkedIn-bharisagar-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031B2F" alt="LinkedIn" /></a>
+  <a href="mailto:barisagar0081@gmail.com"><img src="https://img.shields.io/badge/Email-barisagar0081%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=031B2F" alt="Email" /></a>
+  <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-075985?style=for-the-badge&logo=github&logoColor=white&labelColor=031B2F" alt="GitHub" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharisagar&style=flat-square&color=7C3AED&label=PROFILE%20VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/bharisagar?style=flat-square&color=8B5CF6&labelColor=111827&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/bharisagar?affiliations=OWNER&style=flat-square&color=A78BFA&labelColor=111827&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=bharisagar&style=flat-square&color=0284C7&label=PROFILE%20VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bharisagar?style=flat-square&color=06B6D4&labelColor=0B1F33&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/bharisagar?affiliations=OWNER&style=flat-square&color=38BDF8&labelColor=0B1F33&label=STARS" alt="Stars" />
 </div>
 
 ---
@@ -260,7 +260,7 @@ Leading DevOps, cloud infrastructure, platform automation, and AI/ML service ena
 ### AWS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Certified DevOps Engineer Professional" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer%20Professional-0EA5E9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=031B2F" alt="AWS Certified DevOps Engineer Professional" />
 </div>
 
 ---
@@ -295,8 +295,8 @@ Open To:
 ## Connect
 
 <div align="center">
-  <a href="mailto:barisagar0081@gmail.com"><img src="https://img.shields.io/badge/Gmail-barisagar0081%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/bharisagar/"><img src="https://img.shields.io/badge/LinkedIn-bharisagar-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" alt="LinkedIn" /></a>
-  <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-312E81?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" /></a>
-  <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1020" alt="Portfolio" /></a>
+  <a href="mailto:barisagar0081@gmail.com"><img src="https://img.shields.io/badge/Gmail-barisagar0081%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=031B2F" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/bharisagar/"><img src="https://img.shields.io/badge/LinkedIn-bharisagar-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031B2F" alt="LinkedIn" /></a>
+  <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-075985?style=for-the-badge&logo=github&logoColor=white&labelColor=031B2F" alt="GitHub" /></a>
+  <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=031B2F" alt="Portfolio" /></a>
 </div>
