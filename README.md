@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-4C1D95?style=for-the-badge&labelColor=0B1020" alt="B.Sc Computer Science" />
   <img src="https://img.shields.io/badge/AWS-Certified%20DevOps%20Professional-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0B1020" alt="AWS Certified DevOps Professional" />
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1020" alt="Bangalore India" />
 </div>
