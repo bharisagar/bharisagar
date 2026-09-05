@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=031B2F" alt="Portfolio" /></a>
+  <a href="https://www.bharisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.bharisagar.info-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=031B2F" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bharisagar/"><img src="https://img.shields.io/badge/LinkedIn-bharisagar-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031B2F" alt="LinkedIn" /></a>
   <a href="mailto:barisagar0081@gmail.com"><img src="https://img.shields.io/badge/Email-barisagar0081%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=031B2F" alt="Email" /></a>
   <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-075985?style=for-the-badge&logo=github&logoColor=white&labelColor=031B2F" alt="GitHub" /></a>
