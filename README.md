@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:031B2F,45:0369A1,100:0284C7&text=Bari%20Sagar&fontColor=F8FAFC&fontSize=54&fontAlignY=38&animation=fadeIn&desc=DevOps%20Module%20Lead%20%7C%20AI%20Platform%20Engineer%20%7C%20Cloud-Native%20Architect&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:031B2F,45:0369A1,100:0284C7&text=Bhari%20Sagar&fontColor=F8FAFC&fontSize=54&fontAlignY=38&animation=fadeIn&desc=DevOps%20Module%20Lead%20%7C%20AI%20Platform%20Engineer%20%7C%20Cloud-Native%20Architect&descAlignY=58&descSize=18" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -298,5 +298,5 @@ Open To:
   <a href="mailto:barisagar0081@gmail.com"><img src="https://img.shields.io/badge/Gmail-barisagar0081%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=031B2F" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/bharisagar/"><img src="https://img.shields.io/badge/LinkedIn-bharisagar-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=031B2F" alt="LinkedIn" /></a>
   <a href="https://github.com/bharisagar"><img src="https://img.shields.io/badge/GitHub-bharisagar-075985?style=for-the-badge&logo=github&logoColor=white&labelColor=031B2F" alt="GitHub" /></a>
-  <a href="https://www.barisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.barisagar.info-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=031B2F" alt="Portfolio" /></a>
+  <a href="https://www.bharisagar.info"><img src="https://img.shields.io/badge/Portfolio-www.bharisagar.info-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=031B2F" alt="Portfolio" /></a>
 </div>
